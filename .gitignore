@@ -1,0 +1,17 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+src-tauri/.cargo/
+.env
+.env.*
+.DS_Store
+.vscode/
+.idea/
+*.log
+.vite/
+*.tsbuildinfo
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
